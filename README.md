@@ -1,6 +1,6 @@
 ## 👦🏻 Olá! Eu sou o Lucas Rocha 
 
- 🖥️ Atualmente estou cursando o ultimo semestre de Análise e Desevolvimento de Sistemas
+ 🖥️ Estou em busca de uma oportunidade de estágio
 
  📘 Estudando com o foco maior em cibersegurança
 
